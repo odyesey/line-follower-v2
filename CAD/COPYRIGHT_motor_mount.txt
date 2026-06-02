@@ -1,0 +1,2 @@
+MODEL: https://grabcad.com/library/motor-mount-for-ga12-n20-1
+AUTHOR: https://grabcad.com/tu.n.quang-6
