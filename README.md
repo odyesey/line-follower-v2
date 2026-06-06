@@ -24,13 +24,35 @@ As the name suggests, its the second version with custom pcb and better hardware
 ### CAD View
 ![image](images/assembly.png)
 **Note:** I couldn't find CAD models of some components, so I matched mount holes instead. All dimensions are correct
+
 ### 3D View
 ![image](images/3d.png)
+
 ### 2D View
 ![image](images/2d.png)
 
 ## Schematic
 ![image](images/schematic.jpg)
+
+### wheel.stl
+![image](images/wheel.png)
+
+### small_wheel.stl
+![image](images/small_wheel.png)
+
+### box.stl
+![image](images/box.png)
+
+### lid.stl
+![image](images/lid.png)
+
+### distance_sensor_mount.stl
+![image](images/distance_sensor_mount.png)
+
+### motor_mount.stl
+![image](images/motor_mount.png)
+**Note:** This model isn't mine, so I uploaded copyright
+
 
 ## Gerbers
 Gerbers file is in Fabrication folder, I chose black as a PCB color
