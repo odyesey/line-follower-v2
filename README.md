@@ -58,6 +58,16 @@ Gerbers file is in Fabrication folder, I chose black as a PCB color
 |motor_mount.stl          |2       |PA12-HP Nylon  |
 |distance_sensor_mount.stl|1       |PA12-HP Nylon  |
 
+## Shopping cart (Will be removed after build)
+- This section only for review team, after finishing this project I will remove it
+- Printing Legion guys don't have resin and MJF printing, so I chose JLC3DP
+
+![image](images/info_cart.png)
+| AliExpress | JLC & Local shop |
+| --- | --- |
+|![image](images/cart_1.png)|![image](images/jlc_cart.png)|
+|![image](images/cart_2.png)|![image](images/imax_cart.png)|
+|![image](images/cart_3.png)|![image](images/lipo_cart.png)|
 
 ## BOM
 
