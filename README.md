@@ -13,11 +13,8 @@ As the name suggests, its the second version with custom pcb and better hardware
 - Buzzer to signal start
 - Low voltage alarm
 
-## How to open PCB files
-- Go to EasyEDA Std
-- Go to File > Open > EasyEDA
-- Select easyeda.zip file in PCB folder
-- Click Import
+## PCB
+Project files are in PCB folder for both EasyEDA Std and Pro
 
 ## Images
 
