@@ -22,6 +22,7 @@ This project was made in EasyEDA Standard, therefore there may be some DRC error
 - Project files are in the `PCB` folder
 - Production files are in the `Fabrication` folder
 - CAD Assembly is provided in `assembly.step` file
+- Project is also available in [OSHWLab](https://oshwlab.com/begmetovrustambek/project_kacasgaj)
 
 ## Images
 
