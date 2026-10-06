@@ -39,6 +39,14 @@ This project was made in EasyEDA Standard, therefore there may be some DRC error
 
 `.csv` version in `bomlist.csv`
 
+Total BOM Cost: `45.63 USD`
+
+PCB Cost: `15.55 USD`
+
+Total delivery cost: ~`35 USD`
+
+**Total requested amount:** `95 USD`
+
 |Name|Quantity                                             |Total Cost (USD)                           |Link                              |
 |---|-----------------------------------------------------|-------------------------------------------|----------------------------------|
 |WeAct STM32F411CEU6  board|1                                                    |3.34                                       |https://ali.click/al9kh1r         |
