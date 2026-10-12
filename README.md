@@ -75,3 +75,4 @@ Total delivery cost: ~`35 USD`
 |Electrolytic capacitor pack 16V100uF|1                                                    |1.11                                       |https://ali.click/o76jh1g         |
 |Male pin headers|1                                                    |1.52                                       |https://ali.click/hp7jh1o         |
 |Female pin headers|2                                                    |3.16                                       |https://ali.click/6v7jh1h         |
+|Total cost|1                                                    |45.63                                       |N/A        |
